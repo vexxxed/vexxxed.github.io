@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/prox/vexxed-browser/',
-    bare: 'https://uv.holyubofficial.net/',
+    bare: 'https://bare2.onrender.com/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/prox/uv/uv.handler.js',
